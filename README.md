@@ -8,3 +8,4 @@ MS, Purdue University
 Siemens
 
 ###Porjects
+1. Customer Purchase Analysis
